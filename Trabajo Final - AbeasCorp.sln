@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabajoFinalAbeasCorp", "Trabajo Final - AbeasCorp\TrabajoFinalAbeasCorp.csproj", "{31867D1C-C0D0-4A6B-9664-62918B58B3A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbeasCorp", "AbeasCorp\AbeasCorp.csproj", "{AEA7183B-F888-445C-BA0E-C412CFEACF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31867D1C-C0D0-4A6B-9664-62918B58B3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31867D1C-C0D0-4A6B-9664-62918B58B3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31867D1C-C0D0-4A6B-9664-62918B58B3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31867D1C-C0D0-4A6B-9664-62918B58B3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA7183B-F888-445C-BA0E-C412CFEACF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA7183B-F888-445C-BA0E-C412CFEACF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA7183B-F888-445C-BA0E-C412CFEACF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA7183B-F888-445C-BA0E-C412CFEACF13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E52A93E-E0C0-49AE-86E3-5715C9A269CF}
+	EndGlobalSection
+EndGlobal
